@@ -22,15 +22,13 @@
 - [ ] Create Dashboard (Display User Profile).
 
 ## DONE 
-Phase 1: Database Setup 
-Phase 2: Backend Development 
-- Feature 1
-- Feature 2
+- Phase 1: Database Setup 
+- Phase 2: Backend Development
 
 ## IN-PROGRESS
 
 ## TODO 
-Phase 3 : Frontend Development
+- Phase 3 : Frontend Development
 
 
 
