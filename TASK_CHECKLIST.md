@@ -16,25 +16,22 @@
     - [x] Implement Access Restriction for protected routes
 
 ## Phase 3: Frontend Development (React)
-- [ ] Initialize React project in `/web`.
-- [ ] Create Registration Page (Email/Password forms)
-- [ ] Create Login Page.
-- [ ] Create Dashboard (Display User Profile).
+- [x] Initialize React project in `/web`. (a81e5ed)
+- [x] Create Registration Page (Email/Password forms)
+- [x] Create Login Page.
+- [x] Create Dashboard (Display User Profile).
+
+## Phase 4: Mobile Development (Android Kotlin)
 
 ## DONE 
 - Phase 1: Database Setup (f9cf719)
 - Phase 2: Backend Development (f9cf719)
-- Phase 3: Frontend Development
-- [x] Initialize React Project in '/web'. (a81e5ed)
+- Phase 3: Frontend Development (1935fb1)
 
 ## IN-PROGRESS
-- Phase 3 : Frontend Development
-- [ ] Create Registration Page (Email/Password forms)
-- [ ] Create Login Page.
-- [ ] Create Dashboard (Display User Profile).
 
 ## TODO 
-- Phase 3 : Frontend Development
+- Phase 4 : Mobile Development
 
 
 
