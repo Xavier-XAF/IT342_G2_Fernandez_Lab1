@@ -22,8 +22,8 @@
 - [ ] Create Dashboard (Display User Profile).
 
 ## DONE 
-- Phase 1: Database Setup 
-- Phase 2: Backend Development
+- Phase 1: Database Setup f9cf719
+- Phase 2: Backend Development f9cf719
 
 ## IN-PROGRESS
 
